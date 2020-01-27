@@ -1,12 +1,12 @@
 <entry>
     <version>6.0.0</version>
     <ios_version>1</ios_version>
-    <url>http://sanfrancisco.kapeli.com/feeds/Bourbon.tgz</url>
-    <url>http://london.kapeli.com/feeds/Bourbon.tgz</url>
-    <url>http://newyork.kapeli.com/feeds/Bourbon.tgz</url>
-    <url>http://tokyo.kapeli.com/feeds/Bourbon.tgz</url>
-    <url>http://frankfurt.kapeli.com/feeds/Bourbon.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Bourbon.tgz</url>
+    <url>https://ssanfrancisco.kapeli.com/feeds/Bourbon.tgz</url>
+    <url>https://slondon.kapeli.com/feeds/Bourbon.tgz</url>
+    <url>https://snewyork.kapeli.com/feeds/Bourbon.tgz</url>
+    <url>https://stokyo.kapeli.com/feeds/Bourbon.tgz</url>
+    <url>https://sfrankfurt.kapeli.com/feeds/Bourbon.tgz</url>
+    <url>https://ssingapore.kapeli.com/feeds/Bourbon.tgz</url>
     <other-versions>
         <version><name>6.0.0</name></version>
         <version><name>5.1.0</name></version>

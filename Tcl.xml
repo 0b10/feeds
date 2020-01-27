@@ -1,12 +1,12 @@
 <entry>
     <version>8.6.6</version>
     <ios_version>1</ios_version>
-    <url>http://sanfrancisco.kapeli.com/feeds/Tcl.tgz</url>
-    <url>http://london.kapeli.com/feeds/Tcl.tgz</url>
-    <url>http://newyork.kapeli.com/feeds/Tcl.tgz</url>
-    <url>http://tokyo.kapeli.com/feeds/Tcl.tgz</url>
-    <url>http://frankfurt.kapeli.com/feeds/Tcl.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Tcl.tgz</url>
+    <url>https://ssanfrancisco.kapeli.com/feeds/Tcl.tgz</url>
+    <url>https://slondon.kapeli.com/feeds/Tcl.tgz</url>
+    <url>https://snewyork.kapeli.com/feeds/Tcl.tgz</url>
+    <url>https://stokyo.kapeli.com/feeds/Tcl.tgz</url>
+    <url>https://sfrankfurt.kapeli.com/feeds/Tcl.tgz</url>
+    <url>https://ssingapore.kapeli.com/feeds/Tcl.tgz</url>
     <other-versions>
         <version><name>8.6.6</name></version>
         <version><name>8.6.0</name></version>

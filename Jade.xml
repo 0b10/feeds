@@ -1,12 +1,12 @@
 <entry>
     <version>1.11</version>
     <ios_version>1</ios_version>
-    <url>http://sanfrancisco.kapeli.com/feeds/Jade.tgz</url>
-    <url>http://london.kapeli.com/feeds/Jade.tgz</url>
-    <url>http://newyork.kapeli.com/feeds/Jade.tgz</url>
-    <url>http://tokyo.kapeli.com/feeds/Jade.tgz</url>
-    <url>http://frankfurt.kapeli.com/feeds/Jade.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Jade.tgz</url>
+    <url>https://ssanfrancisco.kapeli.com/feeds/Jade.tgz</url>
+    <url>https://slondon.kapeli.com/feeds/Jade.tgz</url>
+    <url>https://snewyork.kapeli.com/feeds/Jade.tgz</url>
+    <url>https://stokyo.kapeli.com/feeds/Jade.tgz</url>
+    <url>https://sfrankfurt.kapeli.com/feeds/Jade.tgz</url>
+    <url>https://ssingapore.kapeli.com/feeds/Jade.tgz</url>
     <other-versions>
         <version><name>1.11</name></version>
         <version><name>1.10</name></version>

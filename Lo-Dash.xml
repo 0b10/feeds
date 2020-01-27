@@ -1,12 +1,12 @@
 <entry>
     <version>4.17.15</version>
     <ios_version>2</ios_version>
-    <url>http://sanfrancisco.kapeli.com/feeds/Lo-Dash.tgz</url>
-    <url>http://london.kapeli.com/feeds/Lo-Dash.tgz</url>
-    <url>http://newyork.kapeli.com/feeds/Lo-Dash.tgz</url>
-    <url>http://tokyo.kapeli.com/feeds/Lo-Dash.tgz</url>
-    <url>http://frankfurt.kapeli.com/feeds/Lo-Dash.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Lo-Dash.tgz</url>
+    <url>https://ssanfrancisco.kapeli.com/feeds/Lo-Dash.tgz</url>
+    <url>https://slondon.kapeli.com/feeds/Lo-Dash.tgz</url>
+    <url>https://snewyork.kapeli.com/feeds/Lo-Dash.tgz</url>
+    <url>https://stokyo.kapeli.com/feeds/Lo-Dash.tgz</url>
+    <url>https://sfrankfurt.kapeli.com/feeds/Lo-Dash.tgz</url>
+    <url>https://ssingapore.kapeli.com/feeds/Lo-Dash.tgz</url>
     <other-versions>
         <version><name>4.17.15</name></version>
         <version><name>4.17.14</name></version>

@@ -1,12 +1,12 @@
 <entry>
     <version>.7.17</version>
     <ios_version>1</ios_version>
-    <url>http://sanfrancisco.kapeli.com/feeds/Python_2.tgz</url>
-    <url>http://london.kapeli.com/feeds/Python_2.tgz</url>
-    <url>http://newyork.kapeli.com/feeds/Python_2.tgz</url>
-    <url>http://tokyo.kapeli.com/feeds/Python_2.tgz</url>
-    <url>http://frankfurt.kapeli.com/feeds/Python_2.tgz</url>
-    <url>http://singapore.kapeli.com/feeds/Python_2.tgz</url>
+    <url>https://ssanfrancisco.kapeli.com/feeds/Python_2.tgz</url>
+    <url>https://slondon.kapeli.com/feeds/Python_2.tgz</url>
+    <url>https://snewyork.kapeli.com/feeds/Python_2.tgz</url>
+    <url>https://stokyo.kapeli.com/feeds/Python_2.tgz</url>
+    <url>https://sfrankfurt.kapeli.com/feeds/Python_2.tgz</url>
+    <url>https://ssingapore.kapeli.com/feeds/Python_2.tgz</url>
     <other-versions>
         <version><name>2.7.17</name></version>
         <version><name>2.7.16</name></version>
